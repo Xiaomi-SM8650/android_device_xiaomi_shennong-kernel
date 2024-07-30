@@ -1,4 +1,6 @@
 # Aliases extracted from modules themselves.
+alias of:N*T*Cmediatek,geniezone-hyp gzvm
+alias of:N*T*Cmediatek,geniezone-hypC* gzvm
 alias rtnl-link-can can_dev
 alias rtnl-link-vcan vcan
 alias tty-ldisc-17 slcan
@@ -117,8 +119,11 @@ alias usb:v07C9p000Fd*dc*dsc*dp*icFFiscFFip00in* ax88179_178a
 alias usb:v07C9p0010d*dc*dsc*dp*icFFiscFFip00in* ax88179_178a
 alias usb:v04DDp8004d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
 alias usb:v04DDp8005d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
+alias usb:v04DDp8005d*dc*dsc*dp*ic02isc0Aip00in* cdc_ether
 alias usb:v04DDp8006d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
+alias usb:v04DDp8006d*dc*dsc*dp*ic02isc0Aip00in* cdc_ether
 alias usb:v04DDp8007d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
+alias usb:v04DDp8007d*dc*dsc*dp*ic02isc0Aip00in* cdc_ether
 alias usb:v04DDp9031d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
 alias usb:v04DDp9032d*dc*dsc*dp*ic02isc06ip00in* cdc_ether
 alias usb:v04DDp9032d*dc*dsc*dp*ic02isc0Aip00in* cdc_ether
